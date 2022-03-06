@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="c3p0-JARs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Instalação MySQL/c3p0-JARs/c3p0-0.9.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Instalação MySQL/c3p0-JARs/mchange-commons-java-0.2.16.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Instalação MySQL/c3p0-JARs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Instalação MySQL/c3p0-JARs" recursive="false" />
+  </library>
+</component>
