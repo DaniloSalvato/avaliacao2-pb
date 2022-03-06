@@ -5,7 +5,6 @@ Com a avaliação foram criados dois scripts de bancos de dados MySql,
 para avaliação vou deixa-los aqui seguindo a orientação do instrutor.
 
 Banco de dados exercicio 1
-
 ----------------------------------------------
 CREATE DATABASE loja_Sprint2;                 
                                               
@@ -22,7 +21,7 @@ select * from produtos;
 ----------------------------------------------
 
 Banco de dados exercicio 2
-
+----------------------------------------------
 CREATE DATABASE lista_filmes;
 
 USE lista_filmes;
